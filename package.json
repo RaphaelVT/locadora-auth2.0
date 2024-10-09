@@ -8,7 +8,7 @@
     "start": "node src/app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "João Pedro dos Santos",
+  "author": "Raphael Vitor",
   "license": "ISC",
   "description": "atividade",
   "dependencies": {
